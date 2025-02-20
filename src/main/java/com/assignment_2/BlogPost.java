@@ -15,7 +15,6 @@ public class BlogPost {
     private String authorId;
     private String postContent;
 
-    // Private constructor for the builder pattern
     private BlogPost(@JsonProperty("id") String id,
                      @JsonProperty("authorId") String authorId,
                      @JsonProperty("postContent") String postContent) {

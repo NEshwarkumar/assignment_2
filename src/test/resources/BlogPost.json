@@ -1,0 +1,17 @@
+[
+  {
+    "id": "101",
+    "authorId": "0930287",
+    "postContent": "This is a post by Eshwar."
+  },
+  {
+    "id": "102",
+    "authorId": "0930288",
+    "postContent": "This is a post by Dre."
+  },
+  {
+    "id": "103",
+    "authorId": "0930287",
+    "postContent": "This is another post by Eshwar."
+  }
+]
